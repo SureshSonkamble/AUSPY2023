@@ -1,0 +1,9 @@
+lst=[1,2,3.3,'a','apple',7,8,9]
+l=len(lst)
+print(l)
+print(lst)
+print(lst[0])
+print(lst[-1])
+print(lst[:l])
+print(lst[3:5])
+print(lst[5:])
