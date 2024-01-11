@@ -1,0 +1,12 @@
+//LIST
+	
+//ADD
+https://codingseekho.in/APP/LIFE_EXPRESS/add_hospital.php?hname=test&addr=test&city=test&mob=7894561230&pin=789455
+//UPDATE
+https://codingseekho.in/APP/LIFE_EXPRESS/update_hospital.php?hname=test&addr=test&city=test&mob=999999999&pin=400101&id=9
+//DELETE
+https://codingseekho.in/APP/LIFE_EXPRESS/delete_hospital.php?id=9
+
+
+
+
